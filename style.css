@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: grey;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.dice{
+    
+
+    text-align: center;
+   display: inline-block;
+   
+
+}
+
+.dice img{
+
+    width: 70%;
+    height: auto;
+
+}
+h1{
+    margin: 30px;
+    text-shadow: 5px 5px rgb(12, 17, 1);
+    font-size: 6rem;
+    color: rgb(243, 232, 226);
+
+}
+
+p{
+    font-size: 2rem;
+    color: ivory;
+    text-shadow: 1px 1px black;
+}
+
+button{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-top: 10px;
+
+}
+
+
+
